@@ -4,7 +4,7 @@ for(const section of sections){
     section.style.marginBottom = '5px'
     section.style.borderRadius = '15px '
     section.style.paddingLeft = '7px'
-    // section.style.backgroundColor = 'lightgray'
+    section.style.backgroundColor = 'lightgray'
 }
 // const placesContainer = document.getElementById('places-container');
 // placesContainer.style.backgroundColor = 'yellow';
